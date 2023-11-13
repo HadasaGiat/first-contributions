@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Hadasa Fina](https://github.com/HadasaGiat)
 - [Noya David](https://github.com/Sanober494u)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
